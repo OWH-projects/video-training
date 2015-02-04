@@ -1,9 +1,11 @@
 # video-training
 OWH brown-bag sessions 2015: Video!
 
-<h2>What will you need?</h2>
+<h3>What will you need?</h3>
 -Yourself
+
 -Something to take notes with 
+
 *You can bring your iPhone if you want, but it's not required.
 
 We will not be editing in this brown-bag session. Instead we'll spend time looking at what's working and what's not — video-wise — on Omaha.com.
